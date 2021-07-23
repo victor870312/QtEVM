@@ -24,7 +24,7 @@ More info:
 
 ## Screenshot ##
 
-![](https://raw.githubusercontent.com/wzpan/QtEVM/master/Screenshots/QtEVM.png)
+![]( ㄒ)
 
 ## License ##
 
